@@ -18,7 +18,7 @@ public class Principal {
         System.out.println("################################");
 
         Armario armario2 = new Armario();
-        
+
         armario2.setNumeroDePortas(8);
         armario2.setNumeroDeGavetas(10);
         System.out.println("Num portas:" + armario2.getNumeroDePortas());
